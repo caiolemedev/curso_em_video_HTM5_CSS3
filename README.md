@@ -28,7 +28,43 @@ Capítulo 2 - Aula 2 - O que é domínio e hospedagem?
         caminho = /caiolemedev
 
 Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript
+    HTML e CSS não são linguagens de programação
+    "Eu desenvolvo em HTML e CSS" - forma correta
+    HTML - hypertext markup language
+        Focada em conteúdo: texto, imagem, vídeo, tabela, etc.
+    CSS - cascading style sheets
+        Focada no design: tamanho, posição, cores, sombras, etc.
+    JS - JavaScript
+        Focada nas interações: botões, validações, animações, pop-ups, etc.
+    Conteúdo HTML - abertura e fechamento de tags:
+        <h1> título </h1>
+        <p> parágrafo </p>
+        <img src="foto.png" alt="Exemplo de foto">
+        Toda tag pode ter parâmetros e valores
+    Estilo CSS - dentro de uma tag style com uso de seletores:
+        h1 {
+            font-family: Arial;
+            font-size: 20pt;
+            color: blue;
+        }
+        Declarações dentro do seletores com propriedade e valores
+        Precisa finalizar com ";"
+    Estrutura básica para o HTML
+        Tipo de documento = HTML
+        Língua do documento = lang (pt-br)
+        Dividido em head (configurações) e body (conteúdo)
+        No head:
+            meta charset = UTF-8 (para usar acentuação)
+            name = viewport e content = ...1.0 (utilizar toda área do navegagor e não aplicar zoom)
+            title = título do site
+        No body:
+            colocar o conteúdo, por ex título com h1
+    Como funciona no chrome: analisar a cópia gerada do HTML e CSS original e apresentar a interpretação visual
+
+Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack
     
+
+
     
 
 
