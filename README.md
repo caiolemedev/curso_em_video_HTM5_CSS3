@@ -37,9 +37,9 @@ Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript
     JS - JavaScript
         Focada nas interações: botões, validações, animações, pop-ups, etc.
     Conteúdo HTML - abertura e fechamento de tags:
-        <h1> título </h1>
-        <p> parágrafo </p>
-        <img src="foto.png" alt="Exemplo de foto">
+        < h1> título < /h1>
+        < p> parágrafo < /p>
+        < img src="foto.png" alt="Exemplo de foto">
         Toda tag pode ter parâmetros e valores
     Estilo CSS - dentro de uma tag style com uso de seletores:
         h1 {
@@ -62,7 +62,7 @@ Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript
     Como funciona no chrome: analisar a cópia gerada do HTML e CSS original e apresentar a interpretação visual
 
 Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack
-    
+
 
 
     
