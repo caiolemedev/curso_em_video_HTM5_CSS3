@@ -1,12 +1,12 @@
 # curso_em_video_HTM5_CSS3
  HTML5 and CSS3 course from Curso em Video
 
- Anotações
+<h1>Anotações</h1>
 
-Capítulo 1 - Aulas 0~4
+**Capítulo 1 - Aulas 0~4**
     Introdução, literatura e história da internet
 
-Capítulo 2 - Aula 1 - Como a internet funciona?
+**Capítulo 2 - Aula 1 - Como a internet funciona?**
     1 byte = 8 bits
     Padrão de representação: UTF-8
     MB = megabyte - utilizado para armazenamento
@@ -17,7 +17,7 @@ Capítulo 2 - Aula 1 - Como a internet funciona?
     DNS - Domain Name System - funciona como uma "lista telefônica" dos servidores
     Sistemas de rotas - são os caminhos que os dados são transferidos entre servidor e cliente
 
-Capítulo 2 - Aula 2 - O que é domínio e hospedagem?
+**Capítulo 2 - Aula 2 - O que é domínio e hospedagem?**
     Novo site criado no meu PC não pode ser acessada por outra pessoa
     Para acesso a sites desenvolvidos por mim é necessário um domínio (endereço) e uma hospedagem (servidor)
     Domínio = Nome único, pago anualmente, vários TLDs
@@ -27,7 +27,7 @@ Capítulo 2 - Aula 2 - O que é domínio e hospedagem?
         domínio = github.com (com, br, gov, au, -> final do domínio é o TLD)
         caminho = /caiolemedev
 
-Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript
+**Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript**
     HTML e CSS não são linguagens de programação
     "Eu desenvolvo em HTML e CSS" - forma correta
     HTML - hypertext markup language
@@ -61,7 +61,7 @@ Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript
             colocar o conteúdo, por ex título com h1
     Como funciona no chrome: analisar a cópia gerada do HTML e CSS original e apresentar a interpretação visual
 
-Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack
+**Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack**
     Site estático - mesmo site distribuído para todos os clientes
     Front-end:
         Tecnologias Client-Side (funcionam no navegador do cliente): HTML, CSS e JS
@@ -70,8 +70,13 @@ Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack
     Funcionamento: cliente (produz site dinâmico) > servidor (produz "site" HTML) > banco de dados
     Full Stack = Front-end + Back-end
 
-Capítulo 4 - Aula 1 - Instalando todas as ferramentas
+**Capítulo 4 - Aula 1 - Instalando todas as ferramentas**
     Programas necessários: Chrome, Visual Studio Code, Plugin para visualizar página no VS e GitHub Desktop (versionamento)
+
+**Capítulo 4 - Aula 2 - Seu primeiro código em HTML**
+    Desenvoldo ex001 - Olá, mundo! (salvo na pasta de exercícios desse repositório)
+
+**Capítulo 5 - Aula 1 - Parágrafos e Quebras**
     
 
     
