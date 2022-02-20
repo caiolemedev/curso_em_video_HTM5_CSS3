@@ -1,10 +1,10 @@
 # curso_em_video_HTM5_CSS3
- HTML5 and CSS3 course from Curso em Video
+ Curso de HTML5 and CSS3 do canal Curso em Video
 
 <h1>Anotações</h1>
 
 **Capítulo 1 - Aulas 0~4**
-    Introdução, literatura e história da internet
+    <p>Introdução, literatura e história da internet</p>
 
 **Capítulo 2 - Aula 1 - Como a internet funciona?**
     1 byte = 8 bits
@@ -74,10 +74,14 @@
     Programas necessários: Chrome, Visual Studio Code, Plugin para visualizar página no VS e GitHub Desktop (versionamento)
 
 **Capítulo 4 - Aula 2 - Seu primeiro código em HTML**
-    Desenvoldo ex001 - Olá, mundo! (salvo na pasta de exercícios desse repositório)
+    Desenvolvido ex001 - Olá, mundo! (salvo na pasta de exercícios desse repositório)
 
 **Capítulo 5 - Aula 1 - Parágrafos e Quebras**
-    
+    Desenvolvido ex002 - Parágrados e Quebras de Linha (salvo na pasta de exercícios desse repositório)
+    Obs: utilizado caracteres especiais de maior e menor por meio de código &lt; e &gt;
+
+**Capítulo 5 - Aula 2 - Símbolos e Emoji no seu tite**
+
 
     
 
