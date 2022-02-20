@@ -62,8 +62,17 @@ Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript
     Como funciona no chrome: analisar a cópia gerada do HTML e CSS original e apresentar a interpretação visual
 
 Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack
+    Site estático - mesmo site distribuído para todos os clientes
+    Front-end:
+        Tecnologias Client-Side (funcionam no navegador do cliente): HTML, CSS e JS
+    Back-end:
+        Tecnologias Server-Side (funcionam no servidor): PHP, JS (Node), C#, Phyton, Ruby e Java
+    Funcionamento: cliente (produz site dinâmico) > servidor (produz "site" HTML) > banco de dados
+    Full Stack = Front-end + Back-end
 
-
+Capítulo 4 - Aula 1 - Instalando todas as ferramentas
+    Programas necessários: Chrome, Visual Studio Code, Plugin para visualizar página no VS e GitHub Desktop (versionamento)
+    
 
     
 
