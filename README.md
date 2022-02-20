@@ -5,7 +5,7 @@
 
 **Capítulo 1 - Aulas 0~4**
     <p>Introdução, literatura e história da internet</p>
-
+---
 **Capítulo 2 - Aula 1 - Como a internet funciona?**
     <p>1 byte = 8 bits <br>
     Padrão de representação: UTF-8 <br>
@@ -16,7 +16,7 @@
     servidor - base de dados onde serão buscadas as informações <br>
     DNS - Domain Name System - funciona como uma "lista telefônica" dos servidores <br>
     Sistemas de rotas - são os caminhos que os dados são transferidos entre servidor e cliente </p>
-
+---
 **Capítulo 2 - Aula 2 - O que é domínio e hospedagem?**
     <p>Novo site criado no meu PC não pode ser acessada por outra pessoa
     Para acesso a sites desenvolvidos por mim é necessário um domínio (endereço) e uma hospedagem (servidor)
@@ -86,7 +86,8 @@
     Exemplo: &#x1F919; </p>
 
 **Capítulo 6 - Aula 1 - Você tem direito de usar qualquer imagem no seu site?**
-    <p>ok</p>
+    <p>Procurar imagem no Google > ferramentas > Direitos de uso<br>
+    Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
     
 
 
