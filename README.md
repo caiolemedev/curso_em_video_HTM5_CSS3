@@ -7,28 +7,28 @@
     <p>Introdução, literatura e história da internet</p>
 
 **Capítulo 2 - Aula 1 - Como a internet funciona?**
-    1 byte = 8 bits
-    Padrão de representação: UTF-8
-    MB = megabyte - utilizado para armazenamento
-    Mb = megabit - utilizado para transmissão
-    modem = aparelho de modulação e demodulação
-    cliente - computador do usuário
-    servidor - base de dados onde serão buscadas as informações
-    DNS - Domain Name System - funciona como uma "lista telefônica" dos servidores
-    Sistemas de rotas - são os caminhos que os dados são transferidos entre servidor e cliente
+    <p>1 byte = 8 bits <br>
+    Padrão de representação: UTF-8 <br>
+    MB = megabyte - utilizado para armazenamento <br>
+    Mb = megabit - utilizado para transmissão <br>
+    modem = aparelho de modulação e demodulação <br>
+    cliente - computador do usuário <br>
+    servidor - base de dados onde serão buscadas as informações <br>
+    DNS - Domain Name System - funciona como uma "lista telefônica" dos servidores <br>
+    Sistemas de rotas - são os caminhos que os dados são transferidos entre servidor e cliente </p>
 
 **Capítulo 2 - Aula 2 - O que é domínio e hospedagem?**
-    Novo site criado no meu PC não pode ser acessada por outra pessoa
+    <p>Novo site criado no meu PC não pode ser acessada por outra pessoa
     Para acesso a sites desenvolvidos por mim é necessário um domínio (endereço) e uma hospedagem (servidor)
     Domínio = Nome único, pago anualmente, vários TLDs
     Hospedagem = espaço de armazenamento, pago mensalmente, suporte para e-mail e linguagens
     URL - dividida em:
         subdomínio = www ou caiolemedev
         domínio = github.com (com, br, gov, au, -> final do domínio é o TLD)
-        caminho = /caiolemedev
+        caminho = /caiolemedev </p>
 
 **Capítulo 3 - Aula 1 - A diferença entre HTML, CSS e JavaScript**
-    HTML e CSS não são linguagens de programação
+    <p>HTML e CSS não são linguagens de programação
     "Eu desenvolvo em HTML e CSS" - forma correta
     HTML - hypertext markup language
         Focada em conteúdo: texto, imagem, vídeo, tabela, etc.
@@ -59,30 +59,34 @@
             title = título do site
         No body:
             colocar o conteúdo, por ex título com h1
-    Como funciona no chrome: analisar a cópia gerada do HTML e CSS original e apresentar a interpretação visual
+    Como funciona no chrome: analisar a cópia gerada do HTML e CSS original e apresentar a interpretação visual </p>
 
 **Capítulo 3 - Aula 2 - Front-end, Back-end e Full stack**
-    Site estático - mesmo site distribuído para todos os clientes
+    <p>Site estático - mesmo site distribuído para todos os clientes
     Front-end:
         Tecnologias Client-Side (funcionam no navegador do cliente): HTML, CSS e JS
     Back-end:
         Tecnologias Server-Side (funcionam no servidor): PHP, JS (Node), C#, Phyton, Ruby e Java
     Funcionamento: cliente (produz site dinâmico) > servidor (produz "site" HTML) > banco de dados
-    Full Stack = Front-end + Back-end
+    Full Stack = Front-end + Back-end </p>
 
 **Capítulo 4 - Aula 1 - Instalando todas as ferramentas**
-    Programas necessários: Chrome, Visual Studio Code, Plugin para visualizar página no VS e GitHub Desktop (versionamento)
+    <p>Programas necessários: Chrome, Visual Studio Code, Plugin para visualizar página no VS e GitHub Desktop (versionamento) </p>
 
 **Capítulo 4 - Aula 2 - Seu primeiro código em HTML**
-    Desenvolvido ex001 - Olá, mundo! (salvo na pasta de exercícios desse repositório)
+    <p>Desenvolvido ex001 - Olá, mundo! (salvo na pasta de exercícios desse repositório)</p>
 
 **Capítulo 5 - Aula 1 - Parágrafos e Quebras**
-    Desenvolvido ex002 - Parágrados e Quebras de Linha (salvo na pasta de exercícios desse repositório)
-    Obs: utilizado caracteres especiais de maior e menor por meio de código &lt; e &gt;
+    <p>Desenvolvido ex002 - Parágrados e Quebras de Linha (salvo na pasta de exercícios desse repositório)
+    Obs: utilizado caracteres especiais de maior e menor por meio de código &lt; e &gt; </p>
 
 **Capítulo 5 - Aula 2 - Símbolos e Emoji no seu tite**
+    <p>Editado ex002 - Adicionando símbolos especiais e emojis através de códigos (atualização salva na pasta de exercícios desse repositório)
+    Obs: para adicionar emojis corretamente colocar &#x antes de depois o código hexadecimal da emojipedia (após o U+)
+    Exemplo: &#x1F919; </p>
 
-
+**Capítulo 6 - Aula 1 - Você tem direito de usar qualquer imagem no seu site?**
+    <p>ok</p>
     
 
 
