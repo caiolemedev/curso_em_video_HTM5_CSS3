@@ -98,6 +98,7 @@
 **Capítulo 6 - Aula 4 - A tag img em HTML5**
 <p>Construindo ex003 com imagens na mesma pasta, em subpastas e via URL externa (salvo na pasta de exercícios desse repositório)</p>
 
-**Capítulo 6 - Aula 5 - A**
+**Capítulo 6 - Aula 5 - Como mudar o favicon de um site**
+<p>Formato .ico, acessar favicon.io para converter ou criar um favicon. Para adicionar, no campo head digitar link, escolher a opção favicon e selecionar o arquivo desejado. Criado ex004 com o favicon (salvo na pasta de exercícios desse repositório).</p>
 
 
