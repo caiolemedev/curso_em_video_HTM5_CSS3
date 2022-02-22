@@ -88,6 +88,16 @@
 **Capítulo 6 - Aula 1 - Você tem direito de usar qualquer imagem no seu site?**
     <p>Procurar imagem no Google > ferramentas > Direitos de uso<br>
     Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
-    
+
+**Capitulo 6 - Aula 2 - Quais são os formatos para imagens na Web?**
+<p>Formatos: JPEG (mais compacto) ou PNG (permite transparência).</p>
+
+**Capítulo 6 - Aula 3 - O tamanho das imagens importa para um site?**
+<p>Tomar cuidado com tamanho da imagem para o site não ficar pesado demais. Gimp para ajustar e redimensionar. Grande = 1500, Média = 600, lateral = 400, rodapé = 200.</p>
+
+**Capítulo 6 - Aula 4 - A tag img em HTML5**
+<p>Construindo ex003 com imagens na mesma pasta, em subpastas e via URL externa (salvo na pasta de exercícios desse repositório)</p>
+
+**Capítulo 6 - Aula 5 - A**
 
 
