@@ -90,22 +90,22 @@
     Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 ***
 **Capitulo 6 - Aula 2 - Quais são os formatos para imagens na Web?**
-<p>Formatos: JPEG (mais compacto) ou PNG (permite transparência).</p>
+    <p>Formatos: JPEG (mais compacto) ou PNG (permite transparência).</p>
 ***
 
 **Capítulo 6 - Aula 3 - O tamanho das imagens importa para um site?**
-<p>Tomar cuidado com tamanho da imagem para o site não ficar pesado demais. Gimp para ajustar e redimensionar. Grande = 1500, Média = 600, lateral = 400, rodapé = 200.</p>
+    <p>Tomar cuidado com tamanho da imagem para o site não ficar pesado demais. Gimp para ajustar e redimensionar. Grande = 1500, Média = 600, lateral = 400, rodapé = 200.</p>
 ***
 
 **Capítulo 6 - Aula 4 - A tag img em HTML5**
-<p>Construindo ex003 com imagens na mesma pasta, em subpastas e via URL externa (salvo na pasta de exercícios desse repositório)</p>
+    <p>Construindo ex003 com imagens na mesma pasta, em subpastas e via URL externa (salvo na pasta de exercícios desse repositório)</p>
 ***
 
 **Capítulo 6 - Aula 5 - Como mudar o favicon de um site**
-<p>Formato .ico, acessar favicon.io para converter ou criar um favicon. Para adicionar, no campo head digitar link, escolher a opção favicon e selecionar o arquivo desejado. Criado ex004 com o favicon (salvo na pasta de exercícios desse repositório).</p>
+    <p>Formato .ico, acessar favicon.io para converter ou criar um favicon. Para adicionar, no campo head digitar link, escolher a opção favicon e selecionar o arquivo desejado. Criado ex004 com o favicon (salvo na pasta de exercícios desse repositório).</p>
 ***
 
 **Capítulo 7 - Aula 1 - Hierarquia de Títulos**
-<p>Os titulos são marcado pela tag h de 1 à 6 respeitando a hierarquia conforme um índice de livro. </p>
+    <p>Os titulos são marcado pela tag h de 1 à 6 respeitando a hierarquia conforme um índice de livro. </p>
 
 
