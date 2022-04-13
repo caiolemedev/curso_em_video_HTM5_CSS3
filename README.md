@@ -101,4 +101,7 @@
 **Capítulo 6 - Aula 5 - Como mudar o favicon de um site**
 <p>Formato .ico, acessar favicon.io para converter ou criar um favicon. Para adicionar, no campo head digitar link, escolher a opção favicon e selecionar o arquivo desejado. Criado ex004 com o favicon (salvo na pasta de exercícios desse repositório).</p>
 
+**Capítulo 7 - Aula 1 - Hierarquia de Títulos**
+<p>Os titulos são marcado pela tag h de 1 à 6 respeitando a hierarquia conforme um índice de livro. </p>
+
 
