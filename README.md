@@ -117,3 +117,6 @@
     <p>Diferença de tags semânticas e não semânticas (de forma). Tags de forma serão usadas no CSS no HTML devemos usar semânticas, como stong e em.</p>
 ***
 
+**Capítulo 8 - Aula 3 - Formatações adicionais em HTML**
+    <p>Demonstrado outras tags para texto marcado, excluído, inserido, sobrescrito e subscrito.</p>
+***
