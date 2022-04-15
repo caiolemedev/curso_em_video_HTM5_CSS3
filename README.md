@@ -124,3 +124,12 @@
 **Capítulo 8 - Aula 4 - Citações e Códigos**
     <p>Praticando mais tags HTML como código-fonte, pré-formatação, abreviações e citações no exercício 009.</p>
 ***
+
+**Capítulo 9 - Aula 1 - Listas OL e UL**
+    <p>Criação de listas ordenadas e não odenadas. Tags type para modificar o indexador da lista. Na lista ordenda para começar de outro número se usa a tag start.</p>
+***
+
+**Capítulo 9 - Aula 2 - Listas mistas e de definição**
+    <p>Criação de listas mistas dentro das listas principais, ajustada formatação interna. Lista de definições para criação de dicionários.</p>
+***
+
