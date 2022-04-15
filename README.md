@@ -107,5 +107,8 @@
 
 **Capítulo 7 - Aula 1 - Hierarquia de Títulos**
     <p>Os titulos são marcado pela tag h de 1 à 6 respeitando a hierarquia conforme um índice de livro. </p>
+***
 
+**Capítulo 8 - Aula 1 - Semântica no HTML5**
+    <p>Semântica => significado é mais importante que a forma. Tomar cuidado com tags que nao sao mais utilizadas como bgcolor, u, font no HTML. As tags de forma foram migradas para as folhas de estilo em CSS.</p>
 
