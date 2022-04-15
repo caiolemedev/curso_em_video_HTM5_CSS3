@@ -110,5 +110,10 @@
 ***
 
 **Capítulo 8 - Aula 1 - Semântica no HTML5**
-    <p>Semântica => significado é mais importante que a forma. Tomar cuidado com tags que nao sao mais utilizadas como bgcolor, u, font no HTML. As tags de forma foram migradas para as folhas de estilo em CSS.</p>
+    <p>Semântica => significado é mais importante que a forma. Tomar cuidado com tags que não são mais utilizadas como bgcolor, u, font no HTML. As tags de forma foram migradas para as folhas de estilo em CSS. Verificar tags obsoletas no site w3.org</p>
+***
+
+**Capítulo 8 - Aula 2 - Negrito e Itálico**
+    <p>Diferença de tags semânticas e não semânticas (de forma). Tags de forma serão usadas no CSS no HTML devemos usar semânticas, como stong e em.</p>
+***
 
