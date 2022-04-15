@@ -133,3 +133,6 @@
     <p>Criação de listas mistas dentro das listas principais, ajustada formatação interna. Lista de definições para criação de dicionários.</p>
 ***
 
+**Capítulo 10 - Aula 1 - Links e Âncoras em HTML5**
+    <p>Cada link possui uma âncora. Primeiro buscador do google é o google e o segundo é o youtube (também é do google). SEO - search engine optimization - otimização do site para ser encontrado pelo google. Para abrir em uma nova aba colocar target = _blank e rel = external</p>
+***
