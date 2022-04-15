@@ -114,9 +114,13 @@
 ***
 
 **Capítulo 8 - Aula 2 - Negrito e Itálico**
-    <p>Diferença de tags semânticas e não semânticas (de forma). Tags de forma serão usadas no CSS no HTML devemos usar semânticas, como stong e em.</p>
+    <p>Diferença de tags semânticas e não semânticas (de forma). Tags de forma serão usadas no CSS no HTML devemos usar semânticas, como stong e em no exercício 008.</p>
 ***
 
 **Capítulo 8 - Aula 3 - Formatações adicionais em HTML**
-    <p>Demonstrado outras tags para texto marcado, excluído, inserido, sobrescrito e subscrito.</p>
+    <p>Demonstrado outras tags para texto marcado, excluído, inserido, sobrescrito e subscrito adicionadas ao exercício 008.</p>
+***
+
+**Capítulo 8 - Aula 4 - Citações e Códigos**
+    <p>Praticando mais tags HTML como código-fonte, pré-formatação, abreviações e citações no exercício 009.</p>
 ***
