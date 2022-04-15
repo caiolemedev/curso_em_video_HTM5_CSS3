@@ -134,5 +134,10 @@
 ***
 
 **Capítulo 10 - Aula 1 - Links e Âncoras em HTML5**
-    <p>Cada link possui uma âncora. Primeiro buscador do google é o google e o segundo é o youtube (também é do google). SEO - search engine optimization - otimização do site para ser encontrado pelo google. Para abrir em uma nova aba colocar target = _blank e rel = external</p>
+    <p>Cada link possui uma âncora. Primeiro buscador do google é o google e o segundo é o youtube (também é do google). SEO - search engine optimization - otimização do site para ser encontrado pelo google. Para abrir em uma nova aba colocar target = _blank e rel = external. Para links patrocinados ou outras fontes, é possível usar a tag rel = nofollow</p>
 ***
+
+**Capítulo 10 - Aula 2 - Links internos**
+    <p>Para fazer um link interno você pode ter outras páginas dentro da original. Não precisa da url inteira mas para navegar nas pastas usar ./ para subir o nível, ../ sobe dois níveis. Para usar as tags inserir target = _self e rel = next ou prev, facilita a procura pelos mecanismos de busca.</p>
+***
+
