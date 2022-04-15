@@ -140,4 +140,9 @@
 **Capítulo 10 - Aula 2 - Links internos**
     <p>Para fazer um link interno você pode ter outras páginas dentro da original. Não precisa da url inteira mas para navegar nas pastas usar ./ para subir o nível, ../ sobe dois níveis. Para usar as tags inserir target = _self e rel = next ou prev, facilita a procura pelos mecanismos de busca.</p>
 ***
+**Capítulo 10 - Aula 3 - Links para Downloads**
+    <p>Incluir o link do arquivo na tag href e inserir as tags download = nome do arquivo e type conforme lista da iana media types.</p>
+***
+
+
 
