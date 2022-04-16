@@ -160,7 +160,7 @@
 ***
 
 **Capítulo 11 - Aula 5 - Vídeos em hospedagem própria**
-    <p></p>
+    <p>Adicionando videos usando a tag video, similar com imagens. Buscar diferentes tipos para compatibilidade com vários navegadores. Usar tag controls para reprodução e poster para capa do vídeo. Sempre adicionar parágrafo alternativo para navegadores sem suporte.</p>
 ***
 
 
