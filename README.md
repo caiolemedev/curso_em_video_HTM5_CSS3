@@ -163,4 +163,9 @@
     <p>Adicionando videos usando a tag video, similar com imagens. Buscar diferentes tipos para compatibilidade com vários navegadores. Usar tag controls para reprodução e poster para capa do vídeo. Sempre adicionar parágrafo alternativo para navegadores sem suporte.</p>
 ***
 
+**Capítulo 11 - Aula 6 - Incorporação de vídeos de fontes externas**
+    <p>No youtube, usar o botão compartilhar e selecionar incorporar, ajustar os parâmetros e inserir no seu site, tags anteriores não são necessárias.</p>
+***
+
+
 
