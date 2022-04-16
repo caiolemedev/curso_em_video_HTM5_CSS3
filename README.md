@@ -144,5 +144,14 @@
     <p>Incluir o link do arquivo na tag href e inserir as tags download = nome do arquivo e type conforme lista da iana media types.</p>
 ***
 
+**Capítulo 11 - Aula 1 - Imagens Dinâmicas**
+    <p>Criação de 3 imagens de tamanhos diferentes no GIMP para 3 tipos de dispositivos diferentes: celular, tablet e computador.</p>
+***
+
+**Capítulo 11 - Aula 2 - Imagens que se adaptam sozinhas**
+    <p>Usando a tag source dentro da tag picture é possível carregar imagens diferentes usando max ou min width em px. A imagem base fica na tag img e será carregada como padrão caso tenha espaço, normalmente usamos a maior. Precisa ser feita na ordem do menos para o maior.</p>
+***
+
+
 
 
