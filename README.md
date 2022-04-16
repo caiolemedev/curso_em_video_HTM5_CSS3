@@ -171,4 +171,8 @@
     <p>Usar a tag style em cada parâmetro para editar o estilo (propriedades CSS) de cada item do site. Essa técnica polui o HTML.</p>
 ***
 
+**Capítulo 12 - Aula 2 - Estilos CSS internos**
+    <p>Criação de estilos internos. Melhor que o anterior pois edita por tags, portanto simplifica. Mas existem desvantagens como ser específico para uma única página e ser muito grande para ficar no mesmo arquivo que o conteúdo.</p>
+***
+
 
