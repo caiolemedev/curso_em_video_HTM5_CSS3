@@ -152,6 +152,9 @@
     <p>Usando a tag source dentro da tag picture é possível carregar imagens diferentes usando max ou min width em px. A imagem base fica na tag img e será carregada como padrão caso tenha espaço, normalmente usamos a maior. Precisa ser feita na ordem do menos para o maior.</p>
 ***
 
+**Capítulo 11 - Aula 3 - Colocando audios no seu site**
+    <p>Carregando audios no site via tag audio, parâmetros como autoplay (não funcionou), controls e loop são possíveis. É recomendado colocar em mp3 ou ogg, e pode-se tentar carregar de diferentes formas para evitar problemas.</p>
+***
 
 
 
