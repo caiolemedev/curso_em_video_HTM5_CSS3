@@ -167,5 +167,8 @@
     <p>No youtube, usar o botão compartilhar e selecionar incorporar, ajustar os parâmetros e inserir no seu site, tags anteriores não são necessárias.</p>
 ***
 
+**Capítulo 12 - Aula 1 - Estilos CSS inline**
+    <p>Usar a tag style em cada parâmetro para editar o estilo (propriedades CSS) de cada item do site. Essa técnica polui o HTML.</p>
+***
 
 
