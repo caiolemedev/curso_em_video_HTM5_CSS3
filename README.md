@@ -155,6 +155,12 @@
 **Capítulo 11 - Aula 3 - Colocando audios no seu site**
     <p>Carregando audios no site via tag audio, parâmetros como autoplay (não funcionou), controls e loop são possíveis. É recomendado colocar em mp3 ou ogg, e pode-se tentar carregar de diferentes formas para evitar problemas.</p>
 ***
+**Capítulo 11 - Aula 4 - Formatos de vídeo**
+    <p>Baixar videos para livre uso no pexels e converter utilizando o handbreak. Preparar videos e formatos para o site, mais utilizado é o mp4</p>
+***
 
+**Capítulo 11 - Aula 5 - Vídeos em hospedagem própria**
+    <p></p>
+***
 
 
