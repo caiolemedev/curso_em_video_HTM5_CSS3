@@ -175,4 +175,6 @@
     <p>Criação de estilos internos. Melhor que o anterior pois edita por tags, portanto simplifica. Mas existem desvantagens como ser específico para uma única página e ser muito grande para ficar no mesmo arquivo que o conteúdo.</p>
 ***
 
-
+**Capítulo 12 - Aula 3 - Estilos CSS externos**
+    <p>Criar um arquivo externo CSS com o estilo das páginas e referenciar via links em todas. As alterações na página de estilo serão aplicadas a todas. É possível adicionar mais de uma folha de estilo no mesmo arquivo html por meio de links, eles serão somados. Podemos utilizar os 3 métodos de estilo mas eles respeitarão a hierarquia inline > interno > externo.</p>
+***
