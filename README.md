@@ -3,6 +3,8 @@
 
 <h1>Anotações</h1>
 
+<h2>Módulo 1</h2>
+
 **Capítulo 1 - Aulas 0~4**
     <p>Introdução, literatura e história da internet</p>
 ***
@@ -178,3 +180,8 @@
 **Capítulo 12 - Aula 3 - Estilos CSS externos**
     <p>Criar um arquivo externo CSS com o estilo das páginas e referenciar via links em todas. As alterações na página de estilo serão aplicadas a todas. É possível adicionar mais de uma folha de estilo no mesmo arquivo html por meio de links, eles serão somados. Podemos utilizar os 3 métodos de estilo mas eles respeitarão a hierarquia inline > interno > externo.</p>
 ***
+
+<h2>Módulo 2</h2>
+
+**Capítulo 13 - Aula 01 - Psicologia das Cores com CSS3**
+    <p>Cada cor exerce um impacto diferente nas pessoas e influenciam a decisão de consumo das pessoas. Exemplo: facebook, twitter, linkedin, intel, etc.. todas azuis. Texto branco com letras pretas causa cansaço para sites com muito textos.</p>
