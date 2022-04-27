@@ -185,3 +185,8 @@
 
 **Capítulo 13 - Aula 01 - Psicologia das Cores com CSS3**
     <p>Cada cor exerce um impacto diferente nas pessoas e influenciam a decisão de consumo das pessoas. Exemplo: facebook, twitter, linkedin, intel, etc.. todas azuis. Texto branco com letras pretas causa cansaço para sites com muito textos.</p>
+***
+
+**Capitulo 13 - Aula 02 - Representando cores com CSS3**
+    <p>Podemos inserir cor de várias formas: por nome, por código hexadecimal (6 dígitos, sendo 2 representando vermelho, 2 de verde e 2 de azul), RGB (red, green and blue) e HSL (hue, saturation and luminosity).</p>
+***
