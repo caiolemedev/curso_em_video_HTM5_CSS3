@@ -194,3 +194,7 @@
 **Capítulo 13 - Aula 03 - Harmonia de cores**
     <p>Circulo cromático combina simetria com as cores. Cores Primárias, Secundárias e Terciárias (cor primária-cor secundária, parecido com tons pastéis). Divisão por "temperatura". Partir a escolha pela cor principal que passará o sentimento geral, de 3 a 5 cores (+ preto e branco), verificar cor primária da logo. Cores complementares (contraste, lado oposto), cores análogas (com ou sem complementar), cores analogas relacionadas (duas cores analogas e pula uma), cores intercaladas (escolhe uma e pula outra, mas é mais "dura"), cores triádicas, monocromia (1 cor alterando saturação e luminosidade) </p>
 ***
+
+**Capítulo 13 - Aula 04 - Paleta de cores**
+    <p>Criar uma paleta de cores usando Adobe Color. Como extrai tema e degrade de uma imagem para criar paleta. Usando o paletton para gerar um exemplo de site.</p>
+***
