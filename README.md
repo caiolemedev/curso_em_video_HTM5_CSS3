@@ -190,3 +190,7 @@
 **Capitulo 13 - Aula 02 - Representando cores com CSS3**
     <p>Podemos inserir cor de várias formas: por nome, por código hexadecimal (6 dígitos, sendo 2 representando vermelho, 2 de verde e 2 de azul), RGB (red, green and blue) e HSL (hue, saturation and luminosity).</p>
 ***
+
+**Capítulo 13 - Aula 03 - Harmonia de cores**
+    <p>Circulo cromático combina simetria com as cores. Cores Primárias, Secundárias e Terciárias (cor primária-cor secundária, parecido com tons pastéis). Divisão por "temperatura". Partir a escolha pela cor principal que passará o sentimento geral, de 3 a 5 cores (+ preto e branco), verificar cor primária da logo. Cores complementares (contraste, lado oposto), cores análogas (com ou sem complementar), cores analogas relacionadas (duas cores analogas e pula uma), cores intercaladas (escolhe uma e pula outra, mas é mais "dura"), cores triádicas, monocromia (1 cor alterando saturação e luminosidade) </p>
+***
