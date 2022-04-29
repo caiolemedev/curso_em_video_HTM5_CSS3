@@ -198,3 +198,11 @@
 **Capítulo 13 - Aula 04 - Paleta de cores**
     <p>Criar uma paleta de cores usando Adobe Color. Como extrai tema e degrade de uma imagem para criar paleta. Usando o paletton para gerar um exemplo de site.</p>
 ***
+
+**Capítulo 13 - Aula 05 - Como capturar cores da tela?**
+    <p>Para capturar cores dos sites é só instalar a extensão colorzilla. Colocar o mouse em cima da cor e clicar para copiar o código hexadecimal.</p>
+***
+
+**Capítulo 13 - Aula 06 - Como criar degradê com CSS?**
+    <p>Usar comando backgournd.image com a função interna linear-gradient indicando direção (to top, right, etc ou 45deg), primeira cor, segunda cor, terceira cor, etc. Para configurações globais das CSS usar o seletor *{}. Não usar muitas cores e exagerar no gradiente.</p>
+***
