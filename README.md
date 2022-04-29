@@ -204,5 +204,9 @@
 ***
 
 **Capítulo 13 - Aula 06 - Como criar degradê com CSS?**
-    <p>Usar comando backgournd.image com a função interna linear-gradient indicando direção (to top, right, etc ou 45deg), primeira cor, segunda cor, terceira cor, etc. Para configurações globais das CSS usar o seletor *{}. Não usar muitas cores e exagerar no gradiente.</p>
+    <p>Usar comando backgournd.image com a função interna linear-gradient indicando direção (to top, right, etc ou 45deg), primeira cor, segunda cor, terceira cor, etc. Para configurações globais das CSS usar o seletor *{}. Não usar muitas cores e exagerar no gradiente. Cores usadas: rgb(139, 214, 219),rgb(31, 178, 189).</p>
+***
+
+**Capítulo 13 - Aula 07 - Criando um exemplo real**
+    <p>Construindo um exemplo de site com diferentes configurações para body, main, h1, h2 e p. Cada cor foi retirada da paleta do adobe colors e as configurações básicas usadas para ajustar o estilo em arquivo separado.</p>
 ***
