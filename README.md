@@ -210,3 +210,12 @@
 **Capítulo 13 - Aula 07 - Criando um exemplo real**
     <p>Construindo um exemplo de site com diferentes configurações para body, main, h1, h2 e p. Cada cor foi retirada da paleta do adobe colors e as configurações básicas usadas para ajustar o estilo em arquivo separado.</p>
 ***
+
+**Capítulo 14 - Aula 01 - Primeiros passos em Tipografia**
+    <p>Na idade média os livros eram copiados a mão. Gutenberg investou a prensa mecânica de tipos móveis. Tipografia surgiu para criar estulos de letras mais adequadas para leitura. Letras também transmitem sentimentos.</p>
+***
+
+**Capítulo 14 - Aula 02 - Anatomia do tipo**
+    <p>Análise da fonte Times new roman que é a fonte padrão das maiorias dos navegadores. A fonte é baseada pela letra x minúscula. A altura do corpo (total) é o que é configurado na CSS.</p>
+***
+
