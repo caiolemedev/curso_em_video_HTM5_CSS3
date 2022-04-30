@@ -219,3 +219,7 @@
     <p>Análise da fonte Times new roman que é a fonte padrão das maiorias dos navegadores. A fonte é baseada pela letra x minúscula. A altura do corpo (total) é o que é configurado na CSS.</p>
 ***
 
+**Capítulo 14 - Aula 03 - Famílias de fonte em CSS**
+    <p>Usar font-family com mais de 1 parâmetro para não ter problemas com o tipo de dispositivo. Terminar a declaração sempre com uma fonte genérica. É possível coloar o mesmo estilo pra mais de uma tag, basta seprar por vírgula, ex: h1, h2 {}.</p>
+***
+
