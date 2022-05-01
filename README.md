@@ -234,3 +234,7 @@
 **Capítulo 14 - Aula 06 - Usando Google Fonts**
     <p> Acessar Google Fonts e selecionar a fonte e estilos da fonte que deseja utilizar. Colocar dentro da tag style ou no arquivo CSS a função import (não necessário baixar).</p>
 ***
+
+**Capítulo 14 - Aula 07 - Usando fontes externas**
+    <p>Acessar dafont para baixar as fotnes e colocar na pasta do projeto. Criar a fonte com a regra font-face (tomar cuidado com o modo de configurar). Para inserir colocar o format () como opentype (otf), truetype(ttf), embedded-opentype, truetype-aat (Apple Advanced Typography), svg.</p>
+***
