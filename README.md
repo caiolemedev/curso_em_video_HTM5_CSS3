@@ -238,3 +238,7 @@
 **Capítulo 14 - Aula 07 - Usando fontes externas**
     <p>Acessar dafont para baixar as fotnes e colocar na pasta do projeto. Criar a fonte com a regra font-face (tomar cuidado com o modo de configurar). Para inserir colocar o format () como opentype (otf), truetype(ttf), embedded-opentype, truetype-aat (Apple Advanced Typography), svg.</p>
 ***
+
+**Capítulo 14 - Aula 08 - Capturando fontes de um site**
+    <p>Instalar extensão Fonts Ninja no chrome para "ler" uma fonte de um site. Clicar no ninja, não precisa assinar o serviço e o app vai mostrar todas as fontes usadas. Ao passar o mouse por cima e mostra todas as características da letra. É possível testar a fonte numa janela pop-up e copiar o código da fonte.</p>
+***
