@@ -230,3 +230,7 @@
 **Capítulo 14 - Aula 05 - Peso, estilo e shorthand font**
     <p>Para escolher o peso da fonte usar: font-weight. Parâmetros: literais (normal, bold, etc.) ou numéricos (de 100 até 900). Nem todas as fontes tem todas as opções. Font-style para colocar itálico e text-decoration para sublinhar.  Short hand: font: style weight size family (deve respeitar a sequência).</p>
 ***
+
+**Capítulo 14 - Aula 06 - Usando Google Fonts**
+    <p> Acessar Google Fonts e selecionar a fonte e estilos da fonte que deseja utilizar. Colocar dentro da tag style ou no arquivo CSS a função import (não necessário baixar).</p>
+***
