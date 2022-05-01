@@ -226,3 +226,7 @@
 **Capítulo 14 - Aula 04 - Tamanho de fonte e suas medidas**
     <p>Medidas absolutas: cm, mm, in, px, pt, pc. Medidas relativas: em (relativo a altura m), ex (relativo a altura x), rem (relativo ao root, fonte do body), vw (relativo a largura da tela), vh (relativo a altura da tela) e % (porcentagem). Utilizar a referência em! 16px é o tamanho normal, que é igual a 1 em.</p>
 ***
+
+**Capítulo 14 - Aula 05 - Peso, estilo e shorthand font**
+    <p>Para escolher o peso da fonte usar: font-weight. Parâmetros: literais (normal, bold, etc.) ou numéricos (de 100 até 900). Nem todas as fontes tem todas as opções. Font-style para colocar itálico e text-decoration para sublinhar.  Short hand: font: style weight size family (deve respeitar a sequência).</p>
+***
