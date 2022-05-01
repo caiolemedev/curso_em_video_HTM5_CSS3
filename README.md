@@ -242,3 +242,7 @@
 **Capítulo 14 - Aula 08 - Capturando fontes de um site**
     <p>Instalar extensão Fonts Ninja no chrome para "ler" uma fonte de um site. Clicar no ninja, não precisa assinar o serviço e o app vai mostrar todas as fontes usadas. Ao passar o mouse por cima e mostra todas as características da letra. É possível testar a fonte numa janela pop-up e copiar o código da fonte.</p>
 ***
+
+**Capítulo 14 - Aula 09 - Capturando fontes de imagens**
+    <p>Usar sites como: whatfontis, carregar imagem e seguir os passos do site para tentar identificar a fonte. Não é muito preciso e pode não funcionar.</p>
+***
