@@ -246,3 +246,7 @@
 **Capítulo 14 - Aula 09 - Capturando fontes de imagens**
     <p>Usar sites como: whatfontis, carregar imagem e seguir os passos do site para tentar identificar a fonte. Não é muito preciso e pode não funcionar.</p>
 ***
+
+**Capítulo 14 - Aula 10 - Alinhamento de texto com CSS**
+    <p>Alinhamento de texto com a propriedade text-align. Deve ser feito somente via CSS dentro da tag style ou na folha de estilo. Para dar o espaçamento de início de parágrafo utilizar text-indent e a medida.</p>
+***
