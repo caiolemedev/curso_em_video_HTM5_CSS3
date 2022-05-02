@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.164);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -10,12 +10,30 @@ h1{
 }
 
 /* h1#principal ou só #principal*/
-h1#principal{
+h1#main{
     color: white;
     text-align: center;
     background-color: green;
 }
 
+.basic{
+    color: blue;
+}
+
+.intermediate{
+    color: red;
+}
+
+.advanced{
+    color: black;
+}
+
 h2{
     color: rgb(12, 121, 48);
+}
+
+.destaque{
+    font-weight: bold;
+    background-color: yellow;
+    color: black;
 }

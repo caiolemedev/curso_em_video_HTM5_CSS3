@@ -254,3 +254,7 @@
 **Capitulo 15 - Aula 01 - Usando o id com CSS**
     <p>Usar seletores personalizados quando existem 2 elementos da mesma classe mas requerem configurações diferentes. A # no CSS identifica id do HTML e . no CSS identifica class do HTML. Usar: h1#principal ou só #principal.</p>
 ***
+
+**Capítulo 15 - Aula 02 - As diferenças entre id e class**
+    <p>A regra do W3C é utilizar somente 1 id espcifico por elemento por página HTML. Utilizar class para classificar os elementos similares e utilizar a mesma configuração. É possível ter um elemento com id e class, mas o id se sobrepõe ao class. Configurações genéricas e depois específicas.</p>
+***
