@@ -258,3 +258,7 @@
 **Capítulo 15 - Aula 02 - As diferenças entre id e class**
     <p>A regra do W3C é utilizar somente 1 id espcifico por elemento por página HTML. Utilizar class para classificar os elementos similares e utilizar a mesma configuração. É possível ter um elemento com id e class, mas o id se sobrepõe ao class. Configurações genéricas e depois específicas.</p>
 ***
+
+**Capítulo 15 - Aula 03 - Pseudo-classes em CSS**
+    <p>Pseudo-classes são para configurações de estado, colocar id ou class : pseudo-classe. Aplicação de estado para mostrar menus de dropdown quando colocar o mouse em cima usando tag display.</p>
+***
