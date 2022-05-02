@@ -250,3 +250,7 @@
 **Capítulo 14 - Aula 10 - Alinhamento de texto com CSS**
     <p>Alinhamento de texto com a propriedade text-align. Deve ser feito somente via CSS dentro da tag style ou na folha de estilo. Para dar o espaçamento de início de parágrafo utilizar text-indent e a medida.</p>
 ***
+
+**Capitulo 15 - Aula 01 - Usando o id com CSS**
+    <p>Usar seletores personalizados quando existem 2 elementos da mesma classe mas requerem configurações diferentes. A # no CSS identifica id do HTML e . no CSS identifica class do HTML. Usar: h1#principal ou só #principal.</p>
+***
