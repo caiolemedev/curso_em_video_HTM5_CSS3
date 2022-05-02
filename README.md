@@ -262,3 +262,7 @@
 **Capítulo 15 - Aula 03 - Pseudo-classes em CSS**
     <p>Pseudo-classes são para configurações de estado, colocar id ou class : pseudo-classe. Aplicação de estado para mostrar menus de dropdown quando colocar o mouse em cima usando tag display.</p>
 ***
+
+**Capítulo 15 - Aula 04 - Pseudo-elementos em CSS**
+    <p>Usando pseudo-classes para configurar os links de acordo com uma ação. É possível criar pseudo-elementos usando :: após a classe ou id. Para usar um children precisamos colocar > após o id ou class. Cada uma é utilizada em um tipo de situação diferente dentro de um seletor personalizado.</p>
+***
