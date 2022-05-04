@@ -266,3 +266,7 @@
 **Capítulo 15 - Aula 04 - Pseudo-elementos em CSS**
     <p>Usando pseudo-classes para configurar os links de acordo com uma ação. É possível criar pseudo-elementos usando :: após a classe ou id. Para usar um children precisamos colocar > após o id ou class. Cada uma é utilizada em um tipo de situação diferente dentro de um seletor personalizado.</p>
 ***
+
+**Capítulo 16 - Aula 01 - Modelo de Caixas: primeiro passos**
+    <p>Características: height, width, border, padding (espaço entre conteúdo e borda), margin (espaço entre borda e outro elemento) e ouline (fora da borda). Tipos de caixa: box-level (sempre ocupa a largura total da tela e pula uma linha para inserir outra box) e inline-level (não pula linha e não quebra linha para inserir uma nova caixa). Box-level: div, h1, p, main, header, nav, article, aside, footer, form e video. Inline-level: span, a, code, small, strong, em, sup, sub, label, button, input e select.</p>
+***
