@@ -270,3 +270,7 @@
 **Capítulo 16 - Aula 01 - Modelo de Caixas: primeiro passos**
     <p>Características: height, width, border, padding (espaço entre conteúdo e borda), margin (espaço entre borda e outro elemento) e ouline (fora da borda). Tipos de caixa: box-level (sempre ocupa a largura total da tela e pula uma linha para inserir outra box) e inline-level (não pula linha e não quebra linha para inserir uma nova caixa). Box-level: div, h1, p, main, header, nav, article, aside, footer, form e video. Inline-level: span, a, code, small, strong, em, sup, sub, label, button, input e select.</p>
 ***
+
+**Capítulo 16 - Aula 02 - Modelo de Caixas na prática pt1**
+    <p>Caixas box-level. Analisando com chrome: user agent stylesheet são as configurações padrões do navegador. Usar o devtools para verificar as alterações e alterar momentaneamente a página.</p>
+***
