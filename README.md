@@ -272,5 +272,9 @@
 ***
 
 **Capítulo 16 - Aula 02 - Modelo de Caixas na prática pt1**
-    <p>Caixas box-level. Analisando com chrome: user agent stylesheet são as configurações padrões do navegador. Usar o devtools para verificar as alterações e alterar momentaneamente a página.</p>
+    <p>Analisando com chrome: user agent stylesheet são as configurações padrões do navegador. Usar o devtools para verificar as alterações e alterar momentaneamente a página.</p>
+***
+
+**Capítulo 16 - Aula 03 - Modelo de Caixas na prática pt2**
+    <p>Margem com configuração auto centraliza a caixa. Simplificando os comandos usando shorthand. border: width style color; padding: top right bottom left; ou padding 10px; ou padding 10px 20px; (1o valor é top e bot é 10px e o right e left é 20px). Margin segue padding e outline segue border. Display altera o modo como é apresentado a caixa, inline-block mostra o elemento na linha mas com características de bloco.</p>
 ***
