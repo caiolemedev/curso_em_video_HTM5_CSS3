@@ -278,3 +278,7 @@
 **Capítulo 16 - Aula 03 - Modelo de Caixas na prática pt2**
     <p>Margem com configuração auto centraliza a caixa. Simplificando os comandos usando shorthand. border: width style color; padding: top right bottom left; ou padding 10px; ou padding 10px 20px; (1o valor é top e bot é 10px e o right e left é 20px). Margin segue padding e outline segue border. Display altera o modo como é apresentado a caixa, inline-block mostra o elemento na linha mas com características de bloco.</p>
 ***
+
+**Capítulo 16 - Aula 04 - Grouping Tags em HTML5**
+    <p>Criado ex box02 para demonstrar a utilização das tags e configurações principais. Não existe uma hierarquia padrão para as tags, somente para facilitar as buscas separar o body por header, main e footer.</p>
+***
