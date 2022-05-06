@@ -286,3 +286,7 @@
 **Capitulo 16 - Aula 05 - Sombra nas Caixas**
     <p>Usar shorhand do box-shadow: right bottom spread black. Usar sempre preto e colocar transparência um pouco abaixo de 50%. Usar antes dos deslocamentos inset para borda interna do elemento.</p>
 ***
+
+**Capítulo 16 - Aula 06 - Caixas com vértices arredondados**
+    <p>Usar shorthand do comando border-radius: top-left top-right bottom-right bottom-left. Pode ser usada como percentual e se o elemento for quadradado, usar 50% transforma num circulo.</p>
+***
