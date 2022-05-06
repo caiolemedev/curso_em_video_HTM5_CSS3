@@ -282,3 +282,7 @@
 **Capítulo 16 - Aula 04 - Grouping Tags em HTML5**
     <p>Criado ex box02 para demonstrar a utilização das tags e configurações principais. Não existe uma hierarquia padrão para as tags, somente para facilitar as buscas separar o body por header, main e footer.</p>
 ***
+
+**Capitulo 16 - Aula 05 - Sombra nas Caixas**
+    <p>Usar shorhand do box-shadow: right bottom spread black. Usar sempre preto e colocar transparência um pouco abaixo de 50%. Usar antes dos deslocamentos inset para borda interna do elemento.</p>
+***
