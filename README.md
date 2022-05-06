@@ -290,3 +290,7 @@
 **Capítulo 16 - Aula 06 - Caixas com vértices arredondados**
     <p>Usar shorthand do comando border-radius: top-left top-right bottom-right bottom-left. Pode ser usada como percentual e se o elemento for quadradado, usar 50% transforma num circulo.</p>
 ***
+
+**Capítulo 16 - Aula 07 - Bordas decoradas**
+    <p>Criar arquivo para a borda e inserir como border-image-source. Não recomendo!!</p>
+***
