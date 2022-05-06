@@ -294,3 +294,7 @@
 **Capítulo 16 - Aula 07 - Bordas decoradas**
     <p>Criar arquivo para a borda e inserir como border-image-source. Não recomendo!!</p>
 ***
+
+**Capítulo 16 - Aula 08 - Desafio!**
+    <p>Desafio é o capítulo 17 inteiro!</p>
+***
