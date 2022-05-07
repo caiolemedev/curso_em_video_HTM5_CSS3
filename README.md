@@ -306,3 +306,8 @@
 **Capítulo 17 - Aula 02 - Navegando pelo projeto pronto**
     <p>Análise do projeto pronto com as funções e responsividades.</p>
 ***
+
+**Capítulo 17 - Aula 03 - PLanejando a estrutura do site**
+    <p>Preparando a estrutura do site usando mockflow e achando as fontes adequadas.</p>
+***
+
