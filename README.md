@@ -298,3 +298,8 @@
 **Capítulo 16 - Aula 08 - Desafio!**
     <p>Desafio é o capítulo 17 inteiro!</p>
 ***
+
+**Capítulo 17 - Aula 01 - Criando um mini projeto**
+    <p>Preparando o ambiente com as informações e arquivos necessários.</p>
+***
+
