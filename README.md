@@ -303,3 +303,6 @@
     <p>Preparando o ambiente com as informações e arquivos necessários.</p>
 ***
 
+**Capítulo 17 - Aula 02 - Navegando pelo projeto pronto**
+    <p>Análise do projeto pronto com as funções e responsividades.</p>
+***
