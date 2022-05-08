@@ -312,5 +312,9 @@
 ***
 
 **Capítulo 17 - Aula 04 - Layout -> Código**
+    <p>Esboço do conteúdo no site e criação do arquivo CSS.</p>
+***
+
+**Capítulo 17 - Aula 05 - Organizando o conteúdo**
     <p></p>
 ***
