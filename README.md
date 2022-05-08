@@ -307,7 +307,10 @@
     <p>Análise do projeto pronto com as funções e responsividades.</p>
 ***
 
-**Capítulo 17 - Aula 03 - PLanejando a estrutura do site**
+**Capítulo 17 - Aula 03 - Planejando a estrutura do site**
     <p>Preparando a estrutura do site usando mockflow e achando as fontes adequadas.</p>
 ***
 
+**Capítulo 17 - Aula 04 - Layout -> Código**
+    <p></p>
+***
