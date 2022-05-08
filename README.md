@@ -316,5 +316,9 @@
 ***
 
 **Capítulo 17 - Aula 05 - Organizando o conteúdo**
-    <p></p>
+    <p>Organização do conteúdo, colocar links, imagens e videos e criando a lista do site.</p>
+***
+
+**Capítulo 17 - Aula 06 - Variáveis em CSS**
+    <p>Configurando as cores e fontes usando variáveis no CSS. Usar seletor root e declarar variável com 2 traços antes ( --cor0). Para configurações globais usar seletor *, ex: colocar todas as margens e paddings para zero.</p>
 ***
