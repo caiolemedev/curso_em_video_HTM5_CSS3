@@ -327,3 +327,6 @@
     <p>Responsividade com tamanho mínimo e máximo para ser utilizado em diferentes dispositivos. Tamanhos máximos e mínimos para a main do site, img com 100% de largura e substituída por outra quando reduzir muito (usando picture).</p>
 ***
 
+**Capítulo 17 - Aula 08 - Responsividade na prática**
+    <p>Aplicando os conceitos anteriores no nosso site.</p>
+***
