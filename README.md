@@ -322,3 +322,8 @@
 **Capítulo 17 - Aula 06 - Variáveis em CSS**
     <p>Configurando as cores e fontes usando variáveis no CSS. Usar seletor root e declarar variável com 2 traços antes ( --cor0). Para configurações globais usar seletor *, ex: colocar todas as margens e paddings para zero.</p>
 ***
+
+**Capítulo 17 - Aula 07 - Responsividade na prática**
+    <p>Responsividade com tamanho mínimo e máximo para ser utilizado em diferentes dispositivos. Tamanhos máximos e mínimos para a main do site, img com 100% de largura e substituída por outra quando reduzir muito (usando picture).</p>
+***
+
