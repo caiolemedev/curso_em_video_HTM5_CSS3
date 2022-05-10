@@ -330,3 +330,7 @@
 **Capítulo 17 - Aula 08 - Responsividade na prática**
     <p>Aplicando os conceitos anteriores no nosso site.</p>
 ***
+
+**Capítulo 17 - Aula 09 - Configurando o header e menu**
+    <p>Adicionando configurações do header e menu. Para o menu, utilizando o pseudo-elemento hover para alterar o tipo do texto e cor quando passar o mouse em cima. Utilizado também no menu o transition-duration para configurar o tempo que levará para alterar a configuração quando o mouse passar por cima.</p>
+***
