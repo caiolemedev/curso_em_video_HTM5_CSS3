@@ -336,5 +336,9 @@
 ***
 
 **Capítulo 17 - Aula 10 - Melhorando o formato do conteúdo**
-    <p>Ajustando parágrafos, h2, links e destaques.</p>
+    <p>Ajustando parágrafos, h2, links e destaques. Usando gradiente no h2 até o transparente.</p>
+***
+
+**Capítulo 17 - Aula 11 - Rodapé, conteúdo periférico e links**
+    <p>Configurando footer, aside e links. Na lista, usar 2 colunas por conta de telas pequenas. Usando margem negativa para vazar do elemento. Usado emojipedia para configurar o marcador da lista.</p>
 ***
