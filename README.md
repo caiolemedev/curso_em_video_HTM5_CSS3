@@ -334,3 +334,7 @@
 **Capítulo 17 - Aula 09 - Configurando o header e menu**
     <p>Adicionando configurações do header e menu. Para o menu, utilizando o pseudo-elemento hover para alterar o tipo do texto e cor quando passar o mouse em cima. Utilizado também no menu o transition-duration para configurar o tempo que levará para alterar a configuração quando o mouse passar por cima.</p>
 ***
+
+**Capítulo 17 - Aula 10 - Melhorando o formato do conteúdo**
+    <p>Ajustando parágrafos, h2, links e destaques.</p>
+***
