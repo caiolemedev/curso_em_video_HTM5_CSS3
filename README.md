@@ -342,3 +342,7 @@
 **Capítulo 17 - Aula 11 - Rodapé, conteúdo periférico e links**
     <p>Configurando footer, aside e links. Na lista, usar 2 colunas por conta de telas pequenas. Usando margem negativa para vazar do elemento. Usado emojipedia para configurar o marcador da lista.</p>
 ***
+
+**Capítulo 17 - Aula 12 - Vídeo responsivo**
+    <p>Feito algumas configurações pontuais para dispositivos com telas muito pequenas. Video responsivo, utilizado uma div envelopando o vídeo e inserido o conceito de posição absoluta e relativa para que ele se torne responsivo. Os percentuais devem ser ajustados para cada vídeo.</p>
+***
