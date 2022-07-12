@@ -460,3 +460,28 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Como criar um repositório vazio, excluir e modificar responsitórios.</p>
 
 ---
+
+**Capítulo 18 - Aula 06 - Hospedando site gratuitamente com GitHub Pages**
+<p>Como usar o GitHub pages num repositório para abrir os arquivos internos, o readme é aberto como página principal e pode conter links para os exercícios internos. Criar um novo repositório para o projeto Android, colar os arquivos do projeto na pasta, nomear a página principal de index.html, ir nas opções do GitHub, não escolher tema e selecionar master branch (projetos únicos) e gerar url. Gerar um QR code no site QR code generator para o site. GitHub pages só é compatível com HTML, CSS e JS na página, não é compatível com outras linguagens e banco de dados.</p>
+
+---
+
+**Capítulo 18 - Aula 07 - Manutenção em sites hospedados no GitHub Pages**
+<p>Trocando o margin por padding no subtítulo do site. Alterado primeiro no computador, comitado para a branch master, push para o repositório remoto.</p>
+
+---
+
+**Capítulo 18 - Aula 08 - Recursos Sociais do GitHub**
+<p>É possível seguir pessoas, repositórios, projetos, etc. Como usar os recursos sociais do GitHub.</p>
+
+---
+
+**Capítulo 18 - Aula 09 - Clonando um repositório**
+<p>Usando o GitHub para clonar um repositório, é só logar no seu perfil e clicar em fazer download ou clonar com GitHub Desktop (esteja logado) e pronto.</p>
+
+---
+
+**Capítulo 18 - Aula 10 - GitHub em vários PCs**
+<p>Instalar e logar no GitHub Desktop, clonar o repositório remoto para o local, trabalhar no projeto, commit e push para salvar o trabalho, deslogar do GitHub Desktop e excluir todos os arquivos do PC, caso necessário excluir o GitHub Desktop também.</p>
+
+---
