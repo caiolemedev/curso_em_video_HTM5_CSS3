@@ -485,3 +485,13 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Instalar e logar no GitHub Desktop, clonar o repositório remoto para o local, trabalhar no projeto, commit e push para salvar o trabalho, deslogar do GitHub Desktop e excluir todos os arquivos do PC, caso necessário excluir o GitHub Desktop também.</p>
 
 ---
+
+**Capítulo 19 - Aula 01 - Download das imagens do capitulo**
+<p>Introdução sobre imagens de fundo e fazendo um commit para criar o repositório do exercicio.</p>
+
+---
+
+**Capítulo 19 - Aula 02 - Colocando uma imagem de fundo no seu site**
+<p>Criando site teste com imagens no body e nas divs. Cuidado com o tamanho das imagens para o site não ficar muito pesado.</p>
+
+---
