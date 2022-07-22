@@ -611,3 +611,45 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Todo posicionamento é relativo inicialmente, mas faremos o container relativo e o conteúdo absoluto. Adicionar left e top de 50% no conteúdo para centralizar e depois transform e translate em -50% pra cada eixo para centralizar o conteúdo no centro do container.</p>
 
 ---
+
+**Capítulo 20 - Aula 01 - Um projeto completo usando HTML e CSS**
+
+<p>Apresentação do projeto que será desenvolvido.</p>
+
+---
+
+**Capítulo 20 - Aula 02 - Download e organização dos arquivos**
+
+<p>Acessar o repositório do github do guanabara, baixar os arquivos e organizar a pasta de trabalho.</p>
+
+---
+
+**Capítulo 20 - Aula 03 - Ajustes no HTML do projeto**
+
+<p>Feito os primeiros passos do HTML do projeto.</p>
+
+---
+
+**Capítulo 20 - Aula 04 - Ajustes no CSS do projeto**
+
+<p>Feito os primeiros passos do CSS do projeto.</p>
+
+---
+
+**Capítulo 20 - Aula 05 - Ajustes no CSS do projeto**
+
+<p>Feito os primeiros passos do CSS do projeto.</p>
+
+---
+
+**Capítulo 20 - Aula 06 - Imagens com efeito Parallax simples**
+
+<p>Finalizando o projeto com o CSS e efeito parallax.</p>
+
+---
+
+**Capítulo 20 - Aula 07 - Hospedando o Projeto Cordel gratuitamente**
+
+<p>Hospedando o desafio no github.</p>
+
+---
