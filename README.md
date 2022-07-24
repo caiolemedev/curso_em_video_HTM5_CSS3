@@ -653,3 +653,27 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Hospedando o desafio no github.</p>
 
 ---
+
+**Capítulo 21 - Aula 01 - Ainda podemos usar tabelas em HTML?**
+
+<p>Tabelas podem ser usadas no HTML mas não para fazer a estrutura do site.</p>
+
+---
+
+**Capítulo 21 - Aula 02 - Sua primeira tabela em HTML**
+
+<p>A tabela é composta por uma hierarquia de table > tr (linha) > table header (cabeçalho) > td (dados). Usar border-collapse como collapse para a table quando quiser "juntar" as bordas dos dados.</p>
+
+---
+
+**Capítulo 21 - Aula 03 - Alinhando o conteúdo em tabelas**
+
+<p>Para alinhar os dados da tabela utilizar em td as tags text-align para alinhamento horizontal e vertical-align para alinhamento vertical, nesse último o center deve ser substituído por middle.</p>
+
+---
+
+**Capítulo 21 - Aula 04 - Aprendendo a trabalhar com tabelas grandes**
+
+<p>Contruindo uma tabela grande com head, body e foot para dar semântica aos dados. Aplicadas configurações básicas para as próximas aulas.</p>
+
+---
