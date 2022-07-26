@@ -13,6 +13,14 @@
       table {
         width: 500px;
         border-collapse: collapse;
+        position: relative;
+      }
+
+      caption {
+        font-size: 1.5em;
+        font-weight: bold;
+        padding: 10px;
+        background-color: lightgray;
       }
 
       td,
@@ -27,6 +35,20 @@
         color: white;
       }
 
+      thead > tr > th {
+        position: sticky;
+        top: -1px;
+        background-color: gray;
+      }
+
+      tbody > tr:nth-child(odd) /*2n-1*/ {
+        background-color: white;
+      }
+
+      tbody > tr:nth-child(even) /*2n*/ {
+        background-color: lightgray;
+      }
+
       td.num {
         text-align: right;
       }
@@ -37,6 +59,7 @@
     <!--
       ANATOMIA DAS TABELAS GRANDES
       TABLE
+        CATION - legenda da tabela  
         THEAD
           TR, TD, TH
         TBODY
@@ -45,10 +68,13 @@
           TR, TD, TH
   -->
     <table>
+      <caption>
+        População das unidades federativas.
+      </caption>
       <thead>
         <tr>
-          <th>Estado</th>
-          <th>População</th>
+          <th scope="col">Estado</th>
+          <th scope="col" style="width: 50px">População</th>
         </tr>
       </thead>
       <tbody>
@@ -163,10 +189,131 @@
       </tbody>
       <tfoot>
         <tr>
-          <th>Total de Habitantes</th>
+          <th scope="row">Total de Habitantes</th>
           <td class="num"><strong>210.147.125</strong></td>
         </tr>
       </tfoot>
     </table>
+
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa
+      atque necessitatibus, minima dicta non explicabo omnis maxime hic
+      voluptate! Ipsam voluptatem provident quia facere. Est, id a? Nesciunt,
+      quas.
+    </p>
   </body>
 </html>

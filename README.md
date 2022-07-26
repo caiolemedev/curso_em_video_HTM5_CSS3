@@ -677,3 +677,21 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Contruindo uma tabela grande com head, body e foot para dar semântica aos dados. Aplicadas configurações básicas para as próximas aulas.</p>
 
 ---
+
+**Capítulo 21 - Aula 05 - Caption e Escopo de títulos em tabelas**
+
+<p>Caption é a legenda da tabela e vai em cima da tabela podendo ser configurado com CSS normalmente. TH - são títulos dentro da tabela (ex: estado, população e total de habitantes), pode ser inserido scope para col (coluna) ou row (linha).</p>
+
+---
+
+**Capítulo 21 - Aula 06 - Efeito Zebrado na tabela com HTML e CSS**
+
+<p>Usar a pseudo-classe para nth-child() para inserir o efeito zebrado, colocar 2n para intercalar. É possível usar os parâmetros odd (ímpares) e even (pares).</p>
+
+---
+
+**Capítulo 21 - Aula 07 - Cabeçalho fixo para tabelas grandes**
+
+<p>Usar position relative na tabela, sticky e top -1px no th. Adicionar background-color para trazer o fundo e não só as palavras</p>
+
+---
