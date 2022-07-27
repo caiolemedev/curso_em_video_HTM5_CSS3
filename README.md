@@ -692,6 +692,24 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 
 **Capítulo 21 - Aula 07 - Cabeçalho fixo para tabelas grandes**
 
-<p>Usar position relative na tabela, sticky e top -1px no th. Adicionar background-color para trazer o fundo e não só as palavras</p>
+<p>Usar position relative na tabela, sticky e top -1px no th. Adicionar background-color para trazer o fundo e não só as palavras.</p>
+
+---
+
+**Capítulo 21 - Aula 08 - Mesclagem de células**
+
+<p>Usar colspan para expansão em coluna e rowspan para expansão em linha.</p>
+
+---
+
+**Capítulo 21 - Aula 09 - Desafios (parte 1)**
+
+<p>Construído os dois desafios de tabela.</p>
+
+---
+
+**Capítulo 21 - Aula 10 - Exemplo de tabela completa**
+
+<p>Montando um exemplo de tabela com informações de filmes.</p>
 
 ---
