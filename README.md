@@ -713,3 +713,15 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Montando um exemplo de tabela com informações de filmes.</p>
 
 ---
+
+**Capítulo 21 - Aula 11 - Escopos de grupo**
+
+<p>O escopo deve ser analisando para cada th e caso necessário, refencia mais de 1 linha ou coluna, deve ser usado colgroup ou rowgroup.</p>
+
+---
+
+**Capítulo 21 - Aula 12 - Desafios (parte 2)**
+
+<p>Contrído o desafio de tabela 3.</p>
+
+---
