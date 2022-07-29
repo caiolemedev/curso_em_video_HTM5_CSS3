@@ -725,3 +725,15 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Contrído o desafio de tabela 3.</p>
 
 ---
+
+**Capítulo 21 - Aula 13 - Agrupando colunas com colgroup**
+
+<p>Para configurar colunas utilizar a tag colgroup dentro da tabela e adicionar a classe a tag col, caso necessário é possível adicionar um span como no exemplo.</p>
+
+---
+
+**Capítulo 21 - Aula 14 - Tabelas responsivas**
+
+<p>Envelopar a tabela em um container e usar a configuração overflow-x como auto e o scroll será aplicado somente para a tabela.</p>
+
+---
