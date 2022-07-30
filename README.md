@@ -737,3 +737,15 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Envelopar a tabela em um container e usar a configuração overflow-x como auto e o scroll será aplicado somente para a tabela.</p>
 
 ---
+
+**Capítulo 22 - Aula 01 - O iframe ainda pode ser usado?**
+
+<p>O iframe é uma "janela" dentro do seu site que possibilita a apresentação de um site externo. Existem sites protegidos para exibição em iframes em sites de terceiros.</p>
+
+---
+
+**Capítulo 22 - Aula 02 - Configurando iframes**
+
+<p>O tamanho padrão do iframe é 300x150. Mas é possível configurar os iframes individualmente ou via CSS, no caso a CSS se sobrepõe. Frameborder só aceita 0 ou 1, para configurar melhor devemos utilizar CSS.</p>
+
+---
