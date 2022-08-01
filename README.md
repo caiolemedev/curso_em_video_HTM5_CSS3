@@ -749,3 +749,15 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>O tamanho padrão do iframe é 300x150. Mas é possível configurar os iframes individualmente ou via CSS, no caso a CSS se sobrepõe. Frameborder só aceita 0 ou 1, para configurar melhor devemos utilizar CSS.</p>
 
 ---
+
+**Capítulo 22 - Aula 03 - Conteúdo local no iframe**
+
+<p>É possível usar conteúdos locais dentro do iframe somente alterando o src, isso permite configurações de estilo diferentes. Para o caso das tabelas, caso o conteúdo da tabela esteja relacionado com o conteúdo da página, melhor fazer via div.</p>
+
+---
+
+**Capítulo 22 - Aula 04 - Navegação no iframe**
+
+<p>Usando links para navegar no iframe, é necessário colocar um name no iframe e inserir o target do link como o nome do iframe.</p>
+
+---
