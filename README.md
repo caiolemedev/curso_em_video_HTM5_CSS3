@@ -761,3 +761,27 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Usando links para navegar no iframe, é necessário colocar um name no iframe e inserir o target do link como o nome do iframe.</p>
 
 ---
+
+**Capítulo 22 - Aula 05 - Coteúdo no iframe por código**
+
+<p>Usar srcdoc para inserir um html dentro da página como conteúdo estático que não voltará após selecionado outro. Para conteúdos complexos é recomendado um conteúdo externo e uso do src normal.</p>
+
+---
+
+**Capítulo 22 - Aula 06 - Inconvenientes do iframe**
+
+<p>Frame e iframe não são as mesmas coisas, frame não se usa mais. O google bot tem problemas para indexar os conteúdos dentro dos iframes, use os conteúdos relevantes e sensíveis fora dos iframes. Existe problema de acessibilidade como erros nos leitores de tela. Problemas de segurança que o seu site abre uma porta para outros sites.</p>
+
+---
+
+**Capítulo 22 - Aula 07 - Tornando iframes mais seguros**
+
+<p>Usar a tag sandbox recebendo o valor sandbox para bloquear os acessos perigosos e captura de dados, é possível setar algumas autorizações específicas. Adicionar também o referrerpolicy com o atributo no-referrer para bloquear captura de informações também.</p>
+
+---
+
+**Capítulo 22 - Aula 08 - Dicas para iframes melhores**
+
+<p>É possível importar vídeos, mapas do google, mapas do waze, planilhas e arquivos do google docs via iframe para seu site, fazer via conteúdo original no link de compartilhamento.</p>
+
+---
