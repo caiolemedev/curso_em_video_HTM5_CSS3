@@ -785,3 +785,15 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>É possível importar vídeos, mapas do google, mapas do waze, planilhas e arquivos do google docs via iframe para seu site, fazer via conteúdo original no link de compartilhamento.</p>
 
 ---
+
+**Capítulo 23 - Aula 01 - Criando um projeto do zero**
+
+<p>Introdução do projeto de redes sociais.</p>
+
+---
+
+**Capítulo 23 - Aula 02 - Vamos começar o projeto**
+
+<p>.</p>
+
+---
