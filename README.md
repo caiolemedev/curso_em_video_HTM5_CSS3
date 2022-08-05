@@ -794,6 +794,36 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 
 **Capítulo 23 - Aula 02 - Vamos começar o projeto**
 
-<p>.</p>
+<p>Baixar os arquivos do repositório do Guanabara e organizar os arquivos em uma pasta para o projeto.</p>
+
+---
+
+**Capítulo 23 - Aula 03 - Criando a página inicial do projeto**
+
+<p>Criado o arquivo inicial do index html e ajustado algumas configurações.</p>
+
+---
+
+**Capítulo 23 - Aula 04 - Posicionando o conteúdo do seu site**
+
+<p>Posicionando os elementos na página e configurando o iframe.</p>
+
+---
+
+**Capítulo 23 - Aula 05 - Criando os botões para redes sociais**
+
+<p>Configurando o menu e botões de redes sociais com animação.</p>
+
+---
+
+**Capítulo 23 - Aula 06 - Criando as páginas de cada rede social**
+
+<p>Criando o estilo e as págias extras de cada rede social para o projeto. Para esconder a barra de rolagem utilizar o webkit-scrollbar com width e height 0 px.</p>
+
+---
+
+**Capítulo 23 - Aula 07 - Personalizando as imagens do projeto**
+
+<p>Como criar as imagens das redes sociais do projeto usando gimp.</p>
 
 ---
