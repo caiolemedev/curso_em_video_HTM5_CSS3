@@ -827,3 +827,63 @@ Ou acessar Unsplash, Pexels e outros bancos de imagem gratuitos</p>
 <p>Como criar as imagens das redes sociais do projeto usando gimp.</p>
 
 ---
+
+**Capítulo 24 - Aula 01 - Como criar formularios com HTML5**
+
+<p>Apresentando formulários e criando a primeira página com formulário de input de texto sem funcionalidades.</p>
+
+---
+
+**Capítulo 24 - Aula 02 - Usar Label vai melhorar seus formulários**
+
+<p>Usar tag autocomplete com parâmetro off para o form para desligar as sugestões. Para enviar o dado, inserir o nome do arquivo na tag action do formulário. Para o html e php é necessário um name, no JS é utilizado o id. Colocar o label nos textos para ajudar os mecanismos de busca.</p>
+
+---
+
+**Capítulo 24 - Aula 03 - Métodos GET e POST para formulários**
+
+<p>Normalmente os parâmetros do formulário são passados via url, no método GET (usar para dados não sensíveis, até 3000 bites e sem fotos). O método POST esconde o dado da url mas não oculta os dados, não é muito seguro (usar para os outros). Para uma segurança real precisamos utilizar o https (usar para dados sensíveis como senha, número de cartão, etc.).</p>
+
+---
+
+**Capítulo 24 - Aula 04 - Criando caixas de texto e senha**
+
+<p>Usando campos de senha para esconder os textos e travando o envio via parâmetro required nos inputs que são necessários. É possível colocar número mínimo e máximo de caracteres dos textos dentro do input. Alterar tamanho via parâmetro size e incluir texto explicativo via placeholder. Usar autocomplete on no form e depois indicar o que seria o autocomplete de cada campo.</p>
+
+---
+
+**Capítulo 24 - Aula 05 - Elementos number, month, date e time em formulários HTML**
+
+<p>Usando input number com parâmetros min, max e step. Sugerir valores via parâmetro value. Testando outros inputs.</p>
+
+---
+
+**Capítulo 24 - Aula 06 - Compatibilidade com navegadores**
+
+<p>Testando o formulário em diferetes navegadores.</p>
+
+---
+
+**Capítulo 24 - Aula 07 - Formulários com telefone e e-mail**
+
+<p>Os campos de e-mail e telefone não possuem muitos pré filtros para os inputs, mas podem ser melhorados. Estudar mais sobre RegEx (regular expression). É possível agrupar os campos via fieldset e depois confugirar os parâmetros via CSS.</p>
+
+---
+
+**Capítulo 24 - Aula 08 - Checkbox e Radio button em HTML**
+
+<p>Usando checkbox e fazendo a relação para poder selecionar clicando nas palavras. Usar mesmo name para inputs do tipo radio para selecionar somente uma das opções. Adicionar value para os inputs radio para identificar qual seleção foi utilizada. Utilizar parâmetro checked para iniciar o input já marcado.</p>
+
+---
+
+**Capítulo 24 - Aula 09 - Elementos color, range e file em HTML**
+
+<p>Input de cor envia o código da cor em hexadecimal e permite escolher qualquer cor. Input range pode ser configurado com max, min e value. Sempre que for utilizar o input file é necessário usar o método post em vez do get.</p>
+
+---
+
+**Capítulo 24 - Aula 10 - Select, datalist e textarea em HTML**
+
+<p>Usando select com uma lista pré cadastradas. Para permitir texto do usuário junto com lista usar input de texto junto com datalist. Para adicionar menssagens e comentários utilizar o input textarea, é infinito então precisamos utilizar o método post no formulário.</p>
+
+---
